@@ -1,14 +1,36 @@
-<img src="https://unsplash.com/photos/aQYgUYwnCsM/download?force=true&w=640" />
+# Penetration Testing/Bounty Hunting Utilities (codename "Patricia")
 
-# Cybersecurity Projects (Monorepo)
+<table>
+  <tr>
+    <td>
+      "Patricia" is a collection Python scripts that aid in the variuos tasks of penetration testing/bounty hunting process.
+    </td>
+  </tr>
+</table>
 
-Purpose of this monorepository is to bundle all of my cybersecurity projects
-and keep them separate from other other topics like data science, web development,
-etc. Each branch of this repository is a standalone project, Additionally - you can refer to branch topics
-for a more thoutough grouping of projects, topics include but are not limited to:
-- Penetration testing reports in Jupyter;
-- Exploitation tools.
+## Demo
+A working demo can be seen in my Vilnius.lt penetration test repo:  
 
-## Meta:
+## Installation
 
-Cover image by <a href='https://unsplash.com/@lazycreekimages'>Michael Dziedzic</a>
+Windows (Anaconda):
+
+```sh
+```
+
+Windows (Pip):
+
+```sh
+```
+
+## Built with:
+
+- [Python](https://www.python.org) - Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace;
+- [Selenium-Python](https://selenium-python.readthedocs.io/installation.html) - Selenium Python bindings provide a convenient API to access Selenium WebDrivers like Firefox, Ie, Chrome, Remote etc. The current supported Python versions are 3.5 and above;
+- [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/) - WebDriver drives a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation;
+- [ChromeDriver](https://chromedriver.chromium.org/home) - WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.  ChromeDriver is a standalone server that implements the W3C WebDriver standard; 
+
+## Meta
+
+- Author - Augustinas Naina ([email](augustinasnaina@gmail.com), [LinkedIn](https://www.linkedin.com/in/augustinasn/));
+- License - [MIT](https://github.com/augustinasn).
