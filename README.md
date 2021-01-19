@@ -11,4 +11,5 @@ for a more thoutough grouping of projects, topics include but are not limited to
 
 ## Meta:
 
-Cover image by <a href='https://unsplash.com/@lazycreekimages'>Michael Dziedzic</a>
+- License - [MIT](https://github.com/augustinasn/_cybersecurity_projects/blob/master/LICENSE);
+- Cover image by <a href='https://unsplash.com/@lazycreekimages'>Michael Dziedzic</a>.
