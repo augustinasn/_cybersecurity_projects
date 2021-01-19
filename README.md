@@ -11,5 +11,6 @@ for a more thoutough grouping of projects, topics include, but are not limited t
 
 ## Meta:
 
+- Author - Augustinas Naina ([email](augustinasnaina@gmail.com), [LinkedIn](https://www.linkedin.com/in/augustinasn/));
 - License - [MIT](https://github.com/augustinasn/_cybersecurity_projects/blob/master/LICENSE);
 - Cover image by <a href='https://unsplash.com/@lazycreekimages'>Michael Dziedzic</a>.
