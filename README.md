@@ -8,10 +8,10 @@
   </tr>
 </table>
 
-## Demo
+## Demo:
 A working demo can be seen in my Vilnius.lt penetration test repo:  
 
-## Installation
+## Installation:
 
 Windows (Anaconda):
 
@@ -30,7 +30,7 @@ Windows (Pip):
 - [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/) - WebDriver drives a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation;
 - [ChromeDriver](https://chromedriver.chromium.org/home) - WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.  ChromeDriver is a standalone server that implements the W3C WebDriver standard; 
 
-## Meta
+## Meta:
 
 - Author - Augustinas Naina ([email](augustinasnaina@gmail.com), [LinkedIn](https://www.linkedin.com/in/augustinasn/));
-- License - [MIT](https://github.com/augustinasn).
+- License - [MIT](https://github.com/augustinasn/_cybersecurity_projects/blob/master/LICENSE);
