@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      "Patricia" is a collection Python scripts that aid in the variuos tasks of penetration testing/bounty hunting process.
+      "Patricia" is a collection Python scripts that aids user in variuos tasks of penetration testing/bounty hunting process.
     </td>
   </tr>
 </table>
