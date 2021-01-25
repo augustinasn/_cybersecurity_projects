@@ -20,5 +20,5 @@
 ## Meta:
 
 - Author - Augustinas Naina ([email](augustinasnaina@gmail.com), [LinkedIn](https://www.linkedin.com/in/augustinasn/));
-- License - [MIT](https://github.com/augustinasn/_cybersecurity_projects/blob/master/LICENSE);
+- License - [GPLv3](https://github.com/augustinasn/_cybersecurity_projects/blob/master/LICENSE);
 - Cover image by <a href='https://unsplash.com/@lazycreekimages'>Michael Dziedzic</a>.
