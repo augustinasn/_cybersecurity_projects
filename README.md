@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      "Patricia" is a collection Python scripts that aids user in variuos tasks of penetration testing/bounty hunting process.
+      "Patricia" is a collection of Python scripts that aids user in variuos tasks of penetration testing/bounty hunting process.
     </td>
   </tr>
 </table>
@@ -13,14 +13,10 @@ A working demo can be seen in my Vilnius.lt penetration test repo:
 
 ## Installation:
 
-Windows (Anaconda):
+Pip:
 
 ```sh
-```
-
-Windows (Pip):
-
-```sh
+pip install -r requirements.txt
 ```
 
 ## Built with:
