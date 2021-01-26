@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/photos/aQYgUYwnCsM/download?force=true&w=640" />
+<img src='http://drive.google.com/uc?export=view&id=1orgEJBAvl2JWdJXAffiHzIXqVKBmMGFG'/>
 
 # Cybersecurity Projects (Monorepo)
 
@@ -19,6 +19,6 @@
 
 ## Meta:
 
-- Author - Augustinas Naina ([email](augustinasnaina@gmail.com), [LinkedIn](https://www.linkedin.com/in/augustinasn/));
+- Author - Augustinas Naina ([email](mailto:augustinasnaina@gmail.com), [LinkedIn](https://www.linkedin.com/in/augustinasn/));
 - License - [GPLv3](https://github.com/augustinasn/_cybersecurity_projects/blob/master/LICENSE);
 - Cover image by <a href='https://unsplash.com/@lazycreekimages'>Michael Dziedzic</a>.
